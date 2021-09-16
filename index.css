@@ -74,14 +74,14 @@ span{
 }
 @media (max-width:500px)
 {
-    h1,p{
+    h1,p,.col-lg-9{
        text-align: center; 
        font-size: 60px;
     }
 }
 @media (max-width:330px)
 {
-    h1,p{
+    h1,p,.col-lg-9{
        text-align: center; 
        font-size: 44px;
     }
